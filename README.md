@@ -11,6 +11,6 @@ In each ML technique follows a standard pre-processing that includes following s
 After preprocessing is done we follow below further steps to predict the output:
 1. choose appropriate ML class for the respective ML technique.
 2. Create an object and then fit the object to our dataset.
-3. Then preidct the test set results using the model generated after fitting.
+3. Then predict the test set results using the model generated after fitting.
 4. Evaluate the model using various performance metrics.
 5. Then the visualise the test set results and analyse the output generated.
