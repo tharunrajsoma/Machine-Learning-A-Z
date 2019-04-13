@@ -1,6 +1,6 @@
 # Machine Learning A-Z Module
 This project includes various ML techniques available.
-In each ML technique follows a standard pre-processing that includes following steps:
+In each ML technique I follow a standard pre-processing that includes following steps:
 1. Importing Datasets
 2. Replace missing data appropriate valid data using MEAN and other operations
 3. Encoding categorical data. Example encoding categories which involve strings as numbers.
@@ -8,7 +8,7 @@ In each ML technique follows a standard pre-processing that includes following s
 5. If needed splitting datasets as training and testing datasets.
 6. Feature Scaling is done for situations where the difference in values in one column with the same rows of other column is very high.
 
-After preprocessing is done we follow below further steps to predict the output:
+After preprocessing is done I follow further steps below to get right ML model:
 1. choose appropriate ML class for the respective ML technique.
 2. Create an object and then fit the object to our dataset.
 3. Then predict the test set results using the model generated after fitting.
